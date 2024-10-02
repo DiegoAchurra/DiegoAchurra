@@ -9,7 +9,7 @@ Over the years, I've had the pleasure of working with several organizations to d
 - **RedMaestra**: Developing and maintaining educational platforms for tracking course attendance, handling user requirements, and managing events.
 - **GetSoftware**: Supporting NGO-based projects by integrating messaging systems, storage solutions, and email management tools.
 - **RescateFamiliar**: Building applications focused on emergency response coordination and data management for first responders.
-- **15 Compañía de Bomberos de Santiago**: One of my favorite projects! Here, I worked on a system to streamline administrative operations, integrating tools for attendance, event management, and even automated daily reports for meal tracking.
+- **15 Compañía de Bomberos de Santiago**: One of my favorite projects! Here, I worked on a system to streamline administrative operations, integrating tools for attendance, event management, and even automated daily reports.
 
 ## 🌱 What I'm Working On
 
