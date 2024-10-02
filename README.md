@@ -36,7 +36,7 @@ Feel free to connect with me if you’re interested in collaborating on projects
 
 - **Email**: achurradiego@gmail.com
 - **LinkedIn**: [Diego Achurra / Full-Stack Dev](https://www.linkedin.com/in/dachurra/)
-- **GitHub**: [Diego Achurra / Full-Stack Dev](https://github.com/DiegoAchurra)
+- **League of Legends**: Neutol (LAS)
 
 ## ❤️ Acknowledgments
 
