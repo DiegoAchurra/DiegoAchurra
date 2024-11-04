@@ -37,6 +37,7 @@ Feel free to connect with me if you’re interested in collaborating on projects
 - **Email**: achurradiego@gmail.com
 - **LinkedIn**: [Diego Achurra / Full-Stack Dev](https://www.linkedin.com/in/dachurra/)
 - **League of Legends**: Neutol (LAS)
+- **Factorio**: Teunol [390369476] (Steam) 
 
 ## ❤️ Acknowledgments
 
