@@ -1,44 +1,46 @@
+
 # Hi there! 👋 I'm Diego Achuuuuuurra
 
-Welcome to my GitHub profile! I'm a full-stack developer from Chile 🇨🇱 with a drive to build impactful web applications. I specialize in frontend development with **React** and **Node.js**, paired with backend expertise in **Django** and **Flask**. Experienced in deploying and managing applications across platforms like **Azure**, **AWS**, and **GCP**.
+Welcome to my GitHub profile! I’m a full-stack developer from Chile 🇨🇱, passionate about crafting scalable and impactful web applications. With expertise in **React.js**, **Django**, and **Business Intelligence**, I combine dynamic frontends with robust backend logic and services. I’ve also honed my skills in deploying across platforms like **Azure**, **AWS**, and **GCP**.
 
 ## 🚀 What I Do!
 
-Over the years, I've had the pleasure of working with several organizations to deliver high-quality digital solutions. My projects are focused on administrative management, data tracking, and automation, helping companies streamline their operations. Here’s a quick look at some of the companies and projects I've worked on:
+I thrive on creating digital solutions that drive results. From automating processes to optimizing data workflows, I’ve collaborated with organizations to build efficient and user-focused platforms. Some highlights include:
 
-- **RedMaestra**: Developing and maintaining educational platforms for tracking course attendance, handling user requirements, and managing events.
-- **GetSoftware**: Supporting NGO-based projects by integrating messaging systems, storage solutions, and email management tools.
-- **RescateFamiliar**: Building applications focused on emergency response coordination and data management for first responders.
-- **15 Compañía de Bomberos de Santiago**: One of my favorite projects! Here, I worked on a system to streamline administrative operations, integrating tools for attendance, event management, and even automated daily reports.
+- **RedMaestra**: We’re talking about a full-scale human resources platform, built to adapt. SQL, NoSQL, microservices—all in one, modular structure that scaled effortlessly alongside the organization, adapting on demand to new requirements—even adding modules with AI models for smarter and more condensed insights.
+- **GetSoftware**: 
+  - **RescateFamiliar**: Say goodbye to manual entry. I built an app that automated over 8,500 patient entries. Centralized, efficient, and scalable. Dashboard? Check. Reports? Check. Time saved? Immeasurable.
+  - **GuardianesCL**: Ever wondered how firefighters organize night shifts? This app does it all—transactional processing, alerts, and multimedia content management. It’s not just an app; it’s the command center for their night.
 
 ## 🌱 What I'm Working On
 
-Currently, I'm developing various tools that combine React’s dynamic UI capabilities with Django’s powerful backend. My projects aim to enhance user experience and operational efficiency, particularly for NGOs and emergency services.
+Currently, I’m focused on building applications that integrate machine learning insights and data analytics. My projects are designed to automate workflows, track performance, and enhance decision-making. 
 
-Some ongoing projects include:
+Here’s a glimpse of what’s keeping me busy:
 
-- **Event and Attendance Management**: Custom-built tools for tracking volunteer attendance, managing events, and automating shift reports.
-- **Ticketing Systems**: Creating professional-grade support ticket platforms that allow users to submit requirements and track their status.
-- **Data Analytics**: Integrating insights and performance monitoring using APM tools for real-time tracking and improving app performance.
+- **Event Management Tools**: Advanced platforms for tracking and scheduling.
+- **Automation and Insights**: Integrating data pipelines with BI models to deliver actionable results.
+- **Ticketing Systems**: Professional-grade platforms for handling support requests with real-time updates.
+- **Docker Testing and Implementation**: Streamlining application deployment and scalability.
+- **Net and Security Integrations**: Building secure, network-optimized systems with robust access controls.
 
 ## 🛠️ Tools & Technologies
 
-- **Languages**: Python, JavaScript (ES6+), HTML, CSS
-- **Frameworks**: Django, React, Node.js
-- **Databases**: PostgreSQL, MySQL, SQL Server
-- **DevOps**: Azure Web App Services, GitHub Actions
-- **Email & Messaging**: Gmail IMAP, Outlook integrations
-- **Version Control**: Git, GitHub
+- **Languages**: Python, JavaScript (ES6+), SQL, HTML, CSS
+- **Frameworks**: Django, Flask, React.js (+Native), Vue.js, Node.js
+- **Databases**: PostgreSQL, MongoDB, MySQL, SQL Server
+- **DevOps**: Azure Web App Services, Docker, GitHub Actions
+- **Data Tools**: Apache Spark, PySpark, RESTful APIs
+- **Others**: CI/CD pipelines, SCRUM methodology
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me if you’re interested in collaborating on projects or just want to talk tech!
+Feel free to reach out if you’re looking to collaborate or discuss ideas!
 
 - **Email**: achurradiego@gmail.com
 - **LinkedIn**: [Diego Achurra / Full-Stack Dev](https://www.linkedin.com/in/dachurra/)
-- **League of Legends**: Neutol (LAS)
-- **Factorio**: Teunol [390369476] (Steam) 
+- **Gaming**: Neutol (League of Legends, LAS) | Teunol (Factorio, Steam) 
 
 ## ❤️ Acknowledgments
 
-A big thank you to all the companies and teams I've had the pleasure of working with, especially **RedMaestra** and **15 Compañía de Bomberos de Santiago**, for inspiring me to create tools that help save time and resources for those who save lives and educate others.
+A big thanks to all the teams I’ve worked with, especially **RedMaestra**, **GetSoftware**, and **15 Compañía de Bomberos de Santiago**, for inspiring me to create solutions that save time, automate processes, and deliver meaningful impact.
